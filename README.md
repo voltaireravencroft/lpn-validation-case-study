@@ -1,0 +1,1 @@
+# lpn-validation-case-study
