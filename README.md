@@ -92,5 +92,3 @@ No proprietary systems, datasets, or tools are required to understand or apply t
 - Add reporting to track validation exceptions by associate and shift  
 - Introduce configurable prefix management for operations teams  
 - Surface KPIs through a leadership-facing dashboard (e.g., Power BI)  
-=======
-# lpn-validation-case-study
