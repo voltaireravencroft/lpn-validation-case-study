@@ -1,3 +1,5 @@
+# Note: This was my first analytics case study completed during my transition from operations to analytics. While the methodology was sound, I've since refined my approach to data analysis and visualization. See [Manufacturing_Line_Productivity] for my current skill level.
+
 # Inbound Receiving Optimization — LPN Syntax Validation
 
 ## TL;DR
